@@ -38,8 +38,8 @@ It provides a modern online shopping experience with **secure user authenticatio
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (Vite), Redux Toolkit, Tailwind CSS
-- **Backend:** Node.js, Express.js
+- **Frontend:** React (Vite), Redux Toolkit, Styled Components for CSS
+- **Backend:** Node.js, Express.js, Nodemon.js
 - **Database:** MongoDB (Mongoose ODM)
 - **Authentication:** JWT, bcrypt
 - **Email Service:** Nodemailer for OTP verification
