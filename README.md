@@ -60,7 +60,7 @@ Frontend → `http://localhost:5173`
 Backend → `http://localhost:5000`  
 
 
-## Developer
+## 👨‍💻 Developer
 
  **Javaria Rizwan**
  
