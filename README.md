@@ -48,13 +48,13 @@ It provides a modern online shopping experience with **secure user authenticatio
 
 ## 📂 Project Structure
 
-`
+```
 eCommerce_MernStack/
 │── frontend/ # React + Vite client
 │── server/ # Node.js + Express backend
 │── README.md # Project documentation
 │── .gitignore # Ignore files/folders
-`
+```
 App runs on:
 Frontend → `http://localhost:5173`  
 Backend → `http://localhost:5000`  
@@ -64,5 +64,5 @@ Backend → `http://localhost:5000`
 
  **Javaria Rizwan**
  
-📌 MERN Stack Developer
-📌 Open to collaboration 🚀
+- 📌 MERN Stack Developer
+- 📌 Open to collaboration 🚀
